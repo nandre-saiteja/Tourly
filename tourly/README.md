@@ -1,2 +1,0 @@
-# tourly
- Responsive frontend website
